@@ -1,3 +1,4 @@
+package com.conditional;
 import java.util.Scanner;
 
 public class SalaryGross {
